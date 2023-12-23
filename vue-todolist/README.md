@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### slider vue
+![foto dello slider](./src/img/Screenshot%20(21).png).
